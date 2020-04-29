@@ -1,5 +1,7 @@
 # logistic_regression
 
+BITS F464 ML Assignment
+
 Applying logistic regression to detect forged banknotes. Dataset has been used from the UCI Machine Learning Repository. The model has been trained in three ways:
 1. Without regularisation
 2. With L1 regularisation
